@@ -1,1 +1,2 @@
-git的本地版本库g/git/learngit对应github上的origingit仓库
+﻿git的本地版本库g/git/learngit对应github上的origingit仓库，
+因为clone时使用了http的方式，所以每次push都得输入密码，改为SSH的方式
